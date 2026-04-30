@@ -37,6 +37,7 @@ next-env.d.ts
 
 # Prisma
 dev.db
+dev2.db
 dev.db-journal
 
 .env
